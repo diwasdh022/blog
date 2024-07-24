@@ -7,7 +7,7 @@ export default function index() {
     <Head>
       <title>Coming Soon</title>
       <meta name="description" content="Coming Soon" />
-      <link rel="icon" href="/favicon.ico" />
+      <link rel="icon" href="/favicon.png" />
       
 
     </Head>
